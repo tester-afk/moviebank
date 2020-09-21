@@ -2,6 +2,7 @@
 "ad":"fb",
 "forceupdate":"no",
 "version":"1.0.0+1",
+  "close":false"
 "link":"",
 "host":""
 }
