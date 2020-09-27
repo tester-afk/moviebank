@@ -1,8 +1,12 @@
 {
 "ad":"fb",
+  "displayDetail":true,
+  "fbpage":"https://fb.com/moviebank",
 "forceupdate":"no",
 "version":"1.0.0+1",
   "close":false,
 "link":"",
-"host":"https://channelmyanmar.org"
+"host":"https://channelmyanmar.org",
+  "fbBnr":"2944881089067387_2944881869067309",
+  "fbInter":"2944881089067387_2944885375733625",
 }
