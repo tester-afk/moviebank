@@ -3,7 +3,7 @@
 "displayDetail":true,
 "fbpage":"https://fb.me/moviebankapp",
 "version":"1.0.0+1",
-"close":false,
+"close":true,
 "link":"https://fb.me/moviebankapp",
 "host":"https://channelmyanmar.org",
 "fbBnr":"2944881089067387_2944881869067309",
