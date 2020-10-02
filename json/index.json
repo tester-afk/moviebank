@@ -1,7 +1,7 @@
 {
 "inter":"fb",
   "banner":"g",
-  "adRan":false,
+  "adRan":true,
 "displayDetail":true,
 "fbpage":"https://fb.me/moviebankapp",
 "version":"1.0.1+2",
