@@ -5,7 +5,7 @@
 "displayDetail":true,
 "fbpage":"https://fb.me/runnerbankapp",
 "version":"1.0.1+2",
-"sfad":false,
+"sfad":true,
   "stitle":"Temporary Close !!",
   "sdetail":"Please wait for Several days",
 "close":false,
