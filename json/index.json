@@ -8,7 +8,7 @@
 "close":false,
 "link":"https://play.google.com/store/apps/details?id=com.moviebank.cmdownloader",
 "host":["https://cinema.msubmovie.com","https://channelmyanmar.org"],
-  "showhost":[1,1],
+  "showhost":[1,0],
 "fbBnr":"2944881089067387_2944881869067309",
 "fbInter":"2944881089067387_2944885375733625",
 "gBnr":"ca-app-pub-8556088929941286/5905037025",
