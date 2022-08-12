@@ -10,9 +10,9 @@
 "displayDetail":true,
 "fbpage":"https://fb.me/runnerbankapp",
 "version":"2.0.0+10",
-"sfad":false,
-  "stitle":"Temporary Close !!",
-  "sdetail":"Please wait for Several days",
+"sfad":true,
+  "stitle":"Great News !!",
+  "sdetail":"You are working well",
   "close":false,
 "dataversion":22,
 "rate":"https://m.facebook.com/story.php?story_fbid=133703935182716&id=105741144645662"
