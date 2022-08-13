@@ -15,5 +15,9 @@
   "sdetail":"You are working well",
   "close":false,
 "dataversion":22,
-"rate":"https://m.facebook.com/story.php?story_fbid=133703935182716&id=105741144645662"
+"rate":"https://m.facebook.com/story.php?story_fbid=133703935182716&id=105741144645662",
+  "data":[
+    {"name":"Running Man","link":"https://github.com/tester-afk/moviebank/blob/master/rmloader/index.json","dataversion":22},
+    {"name":"Naruto Shippuden","link":"https://github.com/tester-afk/moviebank/blob/master/rmloader/index.json","dataversion":1}
+  ]
 }
