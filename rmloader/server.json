@@ -16,8 +16,19 @@
   "close":false,
 "dataversion":22,
 "rate":"https://m.facebook.com/story.php?story_fbid=133703935182716&id=105741144645662",
-  "data":[
+  "data":[{
+      "name":"Variety Shows",
+      "list":[
     {"name":"Running Man","link":"https://github.com/tester-afk/moviebank/blob/master/rmloader/index.json","dataversion":22,"thumbnail":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/thumbnail/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpeg"},
     {"name":"Naruto Shippuden","link":"https://github.com/tester-afk/moviebank/blob/master/rmloader/index.json","dataversion":1,"thumbnail":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/thumbnail/fkajfjkakfjiajifjklajdklfjakjf.jpeg"}
   ]
+  },
+  {
+      "name":"Anime",
+      "list":[
+    {"name":"Running Man","link":"https://github.com/tester-afk/moviebank/blob/master/rmloader/index.json","dataversion":22,"thumbnail":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/thumbnail/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpeg"},
+    {"name":"Naruto Shippuden","link":"https://github.com/tester-afk/moviebank/blob/master/rmloader/index.json","dataversion":1,"thumbnail":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/thumbnail/fkajfjkakfjiajifjklajdklfjakjf.jpeg"}
+  ]
+  }
+      ]
 }
