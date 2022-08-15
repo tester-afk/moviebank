@@ -14,12 +14,12 @@
   "stitle":"Great News !!",
   "sdetail":"You are working well",
   "close":false,
-"dataversion":22,
+"dataversion":23,
 "rate":"https://m.facebook.com/story.php?story_fbid=133703935182716&id=105741144645662",
   "data":[{
       "name":"Variety Shows",
       "list":[
-    {"name":"Running Man","link":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/index.json","dataversion":22,"thumbnail":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/thumbnail/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpeg"}    
+    {"name":"Running Man","link":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/index.json","dataversion":23,"thumbnail":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/thumbnail/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpeg"}    
   ]
   },
   {
