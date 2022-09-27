@@ -14,12 +14,12 @@
   "stitle":"Great News !!",
   "sdetail":"You are working well",
   "close":false,
-"dataversion":26,
+"dataversion":27,
 "rate":"https://play.google.com/store/apps/details?id=net.loader.rmloader",
   "data":[{
       "name":"Variety Shows",
       "list":[
-    {"name":"Running Man","link":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/index.json","dataversion":26,"thumbnail":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/thumbnail/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpeg"}    
+    {"name":"Running Man","link":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/index.json","dataversion":27,"thumbnail":"https://raw.githubusercontent.com/tester-afk/moviebank/master/rmloader/thumbnail/2Wmmu1MkqxJ48J7aySET9EKEjXz.jpeg"}    
   ]
   },
   {
